@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Marina Martín Hernández
-# Ejercicio 13.4:
+# Ejercicio 13.5:
 
 fd = open('/etc/passwd','r')
 lines = fd.readlines()
